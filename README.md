@@ -1,5 +1,3 @@
-# ishaheed.github.io
-
 # Hey, I'm Shaheed Afridi 👋
 
 🧑‍💻 Java Backend Developer from Kurnool, Andhra Pradesh 🇮🇳  
