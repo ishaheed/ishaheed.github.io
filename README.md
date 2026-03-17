@@ -29,4 +29,4 @@
 ## 🌐 Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-shaheedafridi.me-00e5ff?style=flat)](https://shaheedafridi.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheed_Afridi-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/shaikshaheedafridi)
-[![Email](https://img.shields.io/badge/Email-hello@shaheedafridi.me-D14836?style=flat&logo=gmail)](mailto:hello@shaheedafridi.me)
+[![Email](https://img.shields.io/badge/Email-ishaheedafredi@gmail.com-D14836?style=flat&logo=gmail)](mailto:ishaheedafredi@gmail.com)
